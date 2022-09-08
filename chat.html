@@ -30,15 +30,49 @@
         ></a>
       </div>
       <div class="alt-header__column">
-        <div class="alt-header__title">Settings</div>
+        <div class="alt-header__title">IU</div>
       </div>
       <div class="alt-header__column">
-        <i class="fa-solid fa-magnifying-glass fa-2x"></i>
-        <i class="fa-solid fa-bars fa-2x"></i>
+        <span><i class="fa-solid fa-magnifying-glass fa-lg"></i></span>
+        <span><i class="fa-solid fa-bars fa-lg"></i></span>
       </div>
     </header>
 
-    <main class="main-screen settings-screen"></main>
+    <main class="main-screen main-chat">
+      <div class="chat__timestamp">TuesDay, June 30, 2020</div>
+
+      <div class="message-row">
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7ZLgzfKKjtfDgDqXpUzKiShgTdl0bvt85Q&usqp=CAU"
+        />
+        <div class="message-row__content">
+          <span class="message__author">IU</span>
+          <div class="message__info">
+            <span class="message__bubble">Hi!</span>
+            <span class="message__time">21:27</span>
+          </div>
+        </div>
+      </div>
+      <div class="message-row message-row--own">
+        <div class="message-row__content">
+          <div class="message__info">
+            <span class="message__bubble">Hi nice to meet you!</span>
+            <span class="message__time">21:27</span>
+          </div>
+        </div>
+      </div>
+
+      <form class="reply">
+        <div class="reply__column">
+          <i class="fa-regular fa-square-plus fa-xl"></i>
+        </div>
+        <div class="reply__column">
+          <input type="text" placeholder="Write a message..." />
+          <i class="fa-regular fa-face-smile fa-xl"></i>
+          <button><i class="fa-solid fa-arrow-up fa-lg"></i></button>
+        </div>
+      </form>
+    </main>
 
     <script
       src="https://kit.fontawesome.com/9f59b2dab5.js"
