@@ -6,6 +6,7 @@
   width: 100%;
   top: 0;
   box-sizing: border-box;
+  background-color: #fff;
 }
 .status-bar__column {
   width: 33%;
