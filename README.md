@@ -1,6 +1,6 @@
-# 노마드코더 Kokoa talk 클론 코딩
+# kakao talk 클론 코딩
 
-강의를 듣고 <strong>카카오톡</strong> 클론 코딩을 진행합니다.
+<strong>카카오톡</strong> 클론 코딩을 진행합니다.
 
 ## 사용기술
 <div>
