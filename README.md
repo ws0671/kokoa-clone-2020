@@ -1,6 +1,7 @@
 # kakao talk 클론 코딩
 
-<strong>카카오톡</strong> 클론 코딩을 진행합니다.
+## 개발 목표
+<strong>카카오톡</strong> 클론 코딩 및 추가 기능 구현.
 
 ## 사용기술
 <div>
